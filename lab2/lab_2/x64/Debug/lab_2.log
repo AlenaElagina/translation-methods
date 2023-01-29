@@ -1,0 +1,10 @@
+﻿  lab_2.cpp
+C:\Users\ПК\Desktop\git\translation-methods\lab2\lab_2\FirstArray.h(73,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ПК\Desktop\git\translation-methods\lab2\lab_2\syntax_analyzer.h(45): warning C4715: syntax_analyzer::T: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\git\translation-methods\lab2\lab_2\syntax_analyzer.h(65): warning C4715: syntax_analyzer::P: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\git\translation-methods\lab2\lab_2\syntax_analyzer.h(55): warning C4715: syntax_analyzer::F: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\git\translation-methods\lab2\lab_2\syntax_analyzer.h(104): warning C4715: syntax_analyzer::H: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\git\translation-methods\lab2\lab_2\syntax_analyzer.h(78): warning C4715: syntax_analyzer::Q: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\git\translation-methods\lab2\lab_2\syntax_analyzer.h(91): warning C4715: syntax_analyzer::V: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\git\translation-methods\lab2\lab_2\syntax_analyzer.h(128): warning C4715: syntax_analyzer::A: значение возвращается не при всех путях выполнения
+  lab_2.vcxproj -> C:\Users\ПК\Desktop\git\translation-methods\lab2\x64\Debug\lab_2.exe

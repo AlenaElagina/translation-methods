@@ -1,0 +1,10 @@
+﻿  test.cpp
+C:\Users\ПК\Desktop\Учёба\3 курс\МТ\lab_2\lab_2\lab_2\FirstArray.h(73,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ПК\Desktop\Учёба\3 курс\МТ\lab_2\lab_2\lab_2\syntax_analyzer.h(43): warning C4715: syntax_analyzer::T: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\Учёба\3 курс\МТ\lab_2\lab_2\lab_2\syntax_analyzer.h(62): warning C4715: syntax_analyzer::P: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\Учёба\3 курс\МТ\lab_2\lab_2\lab_2\syntax_analyzer.h(52): warning C4715: syntax_analyzer::F: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\Учёба\3 курс\МТ\lab_2\lab_2\lab_2\syntax_analyzer.h(100): warning C4715: syntax_analyzer::H: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\Учёба\3 курс\МТ\lab_2\lab_2\lab_2\syntax_analyzer.h(74): warning C4715: syntax_analyzer::Q: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\Учёба\3 курс\МТ\lab_2\lab_2\lab_2\syntax_analyzer.h(87): warning C4715: syntax_analyzer::V: значение возвращается не при всех путях выполнения
+C:\Users\ПК\Desktop\Учёба\3 курс\МТ\lab_2\lab_2\lab_2\syntax_analyzer.h(124): warning C4715: syntax_analyzer::A: значение возвращается не при всех путях выполнения
+  Tests.vcxproj -> C:\Users\ПК\Desktop\Учёба\3 курс\МТ\lab_2\lab_2\x64\Debug\Tests.exe
